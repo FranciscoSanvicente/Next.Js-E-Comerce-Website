@@ -1,0 +1,23 @@
+{
+  "name": "nextjs-project",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "export": "next export"
+  },
+  "dependencies": {
+    "next": "9.5.3",
+    "react": "^16.13.1",
+    "react-dom": "16.13.1",
+    "react-elastic-carousel": "^0.7.5",
+    "react-icons": "^3.11.0",
+    "react-live-clock": "^5.0.3",
+    "styled-components": "^5.2.0"
+  },
+  "devDependencies": {
+    "babel-plugin-styled-components": "^1.11.1"
+  }
+}
