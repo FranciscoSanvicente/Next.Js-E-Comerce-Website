@@ -3,6 +3,8 @@ Application made with Next Js and React with its own interface, an online store 
 
 ![](https://github.com/FranciscoSanvicente/Next.Js-E-Comerce-Website/blob/main/ipAddressTracker.PNG)
 
+![](https://github.com/FranciscoSanvicente/Next.Js-E-Comerce-Website/blob/main/Captura2.PNG)
+
 To install and start:
 ```
 git clone https://github.com/FranciscoSanvicente/Next.Js-E-Comerce-Website
